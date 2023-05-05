@@ -105,7 +105,9 @@ After finishing your required elements, you can push your work further. These go
 Demonstrate your understanding of this sprint's concepts by answering the following free-form questions. Edit this document to include your answers after each question.
 
 1. How would you explain form validation to someone who has never programmed before?
+form validation is making sure the forms were completed in the proper way, before being sent off to wherever the form answers need to be sent to
 1. In 1-2 sentences, define end to end testing.
+end to end testing tests every aspect of the app, from spelling errors to making sure the logic behind teh app works
 
 ## FAQs
 
